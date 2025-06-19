@@ -1,0 +1,8 @@
+/* Additional custom styles can go here */
+
+/* Custom container max width for larger screens */
+@media (min-width: 1280px) {
+  .container {
+    max-width: 1200px;
+  }
+}
